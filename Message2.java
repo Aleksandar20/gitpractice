@@ -1,6 +1,6 @@
-#showing only one message 2
-if (a>7 {
- System.out.println("More than 7")}
+#showing only one message 3
+if (a>8 {
+ System.out.println("More than 8")}
  else{
- System.out.println("Les than 7")}
+ System.out.println("Les than 8")}
  
